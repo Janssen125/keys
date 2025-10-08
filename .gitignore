@@ -1,0 +1,13 @@
+# Never upload private keys or local environment files
+private.pem
+*.lic
+
+# Common local config / temp files
+.env
+*.log
+*.cache
+.DS_Store
+.idea/
+.vscode/
+vendor/
+node_modules/
